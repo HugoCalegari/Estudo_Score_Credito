@@ -5,5 +5,5 @@ Estudo de score de crédito para clientes de uma instituição financeira. O lin
 
 ## Descrições iniciais
 
-> Trata-se de um problema de classificação multi-rótulo (*Good*, *Standard*, *Poor*).
+Trata-se de um problema de classificação multi-rótulo (*Good*, *Standard*, *Poor*).
 
